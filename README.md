@@ -6,3 +6,5 @@ The goals of this projects are:
 - Determines factors that influence sales the most
 - Customer's segmentation using RFM (Recency, Frequency, Monetary) analysis
 - Makes actionable recommendation
+
+Visualizations of this analysis was also made on [Tableau](https://public.tableau.com/app/profile/azzarya.chrisayudha/viz/SupermarketCustomerDashboard-Azzarya/Overview)
